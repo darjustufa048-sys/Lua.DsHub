@@ -1,5 +1,4 @@
-# Lua.DsHub
-Lua source hider made by darjus
+
 local DsHub = Instance.new("ScreenGui")
 local MainFrame = Instance.new("Frame")
 local TitleBar = Instance.new("Frame")
